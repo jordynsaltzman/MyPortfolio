@@ -3,6 +3,9 @@ This is a preliminary version of a portfolio featuruing my projects as a develop
 
 Please note that the "Contact" page does not actually allow users to submit information. 
 
+Here is a current screenshot of the page:
+![Alt text](assets/images/screenshotofsite.png "Optional Title")
+
  
 ## Pages
 * About Me (index.html)
